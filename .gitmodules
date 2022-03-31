@@ -1,0 +1,3 @@
+[submodule "I2CUtils"]
+	path = I2CUtils
+	url = https://github.com/tiefseeudo/I2CUtils.git
